@@ -1,4 +1,4 @@
-# iamrich
+# Introapp
 
 A new Flutter application.
 
